@@ -3,7 +3,7 @@ boot3custom
 
 Boot3custom is a Mobile first web freamwork.
 
-![](/http://college-social.com/content/uploads/sites/6/2014/01/Happy-herb-pizza.jpg)
+![](http://college-social.com/content/uploads/sites/6/2014/01/Happy-herb-pizza.jpg)
 
  - Team Member
   - Riaz Uddin Masum
