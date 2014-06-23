@@ -59,13 +59,7 @@ node app
 ```
 
 
-License
-----
 
-MIT
-
-
-**Free Software, Hell Yeah!**
 
 [john gruber]:http://daringfireball.net/
 [@thomasfuchs]:http://twitter.com/thomasfuchs
