@@ -1,0 +1,73 @@
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+/* Styles */
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) {
+ .eva-coll{
+        width:33%;
+        float:left;
+        text-align:center;
+        padding-bottom:12%;
+}
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+        .eva-colp {
+            width:50%;
+            float:left;
+            text-align:center;
+            padding-bottom:12%;
+        }
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) {
+/* Styles */
+}
+
+/* iPads (landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {
+/* Styles */
+}
+
+/* ipads (landscape) ----------- */
+@media only screen and (min-width : 769px) {
+ .eva-coll{
+        width:16.66%;
+        float:left;
+        text-align:center;
+}
+}
+.container-1 {
+margin-top:22%;
+}
+
+.navbar-background {
+background:#99071a;
+color:#fffafa;    
+}
+
+.eva-colnb{
+        width:25%;
+        float:left;
+        text-align:center;
+        vertical-align:middle;
+}
+
+.row-bottom {
+    
+    padding:7px 0;
+
+}
+
+    
+    
