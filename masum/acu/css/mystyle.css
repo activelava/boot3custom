@@ -1,0 +1,38 @@
+.carousel-control.left {
+    background:none;
+}
+
+.carousel-control.right {
+    background:none;
+}
+
+.sliderx {
+      width:100%;
+      height:650px;
+      min-width:100%;
+      min-height:650px;
+      overflow:hidden;
+      display:block;
+    }
+
+.color1 {
+    background:#b92a30;
+}
+
+.color2 {
+    background:#34c6f5;
+}
+
+.color3 {
+    background:#b6d554;
+}
+
+.slideimg {
+    float:left;
+    max-width:50%;
+    max-height:auto;
+}
+
+.carousel-caption {
+    bottom:130px;
+}
