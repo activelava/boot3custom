@@ -1,0 +1,36 @@
+.ox_main{ margin: 0 auto;
+    padding: 0px;
+    width: 100%;
+    height: auto;
+}
+
+#main_fild{ border: 1px solid red;
+}
+
+#main_fild a{ text-decoration: none;
+}
+
+#main_fild a:hover{ color: #ff11aa;
+}
+
+.fild1{ width: 100%;
+    height: 50px;
+
+    font-family: Helvetica;
+    font-size: 22px;
+    font-weight: 600;
+    color: #226666;
+    border-bottom: 1px solid #c3c3c3;
+}
+
+
+.fild1 img{ padding: 0px 10px 0px 10px;
+}
+
+.footer{    width: 100%;
+    height: 50px;
+    border: 1px solid red;
+}
+
+#nav_footer{ background-color: #000;
+}
