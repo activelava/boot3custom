@@ -1,0 +1,50 @@
+.ox_main{ margin: 0 auto;
+    padding: 0px;
+    width: 100%;
+    height: auto;
+}
+
+#ox{ margin: 0 auto;
+
+}
+
+#main_menu{ margin: 0 auto;
+    padding: 0px;
+    height: 50px;
+}
+
+#main_fild{
+    margin: 0 auto;
+    padding: 0px;
+
+}
+
+
+.fild1{ width: 100%;
+    font-family: Helvetica;
+    font-size: 22px;
+    font-weight: 600;
+    color: #226666;
+    border-bottom: 1px solid #c3c3c3;
+}
+
+
+.fild1 img{ padding: 0px 10px 0px 10px;
+}
+
+.footer{    width: 100%;
+    height: auto;
+}
+
+#nav_footer{ background-color: #f8f8f8;
+    text-align:  center;
+}
+
+.footer span{ text-align:  center;
+    color: #FFFAFA;
+    font-size: 30px;
+    padding:  2px;
+    text-shadow: 1px 1px 1px #ffffff;
+    color: #000;
+}
+
